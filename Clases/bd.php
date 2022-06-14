@@ -8,7 +8,10 @@
         private string $db = "bdlist";
         private string $port = "3306";
         private string $code = "utf8";
-        private string $dsn = "";
+        
+        private $connection = null;
+
+        public function __construct($)
     }
 
 ?>
