@@ -1,7 +1,7 @@
 {
     "require": {
         "php": ">=8",
-        "mysqli": ">=2"
+        "mysqli": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
