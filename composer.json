@@ -8,12 +8,12 @@
     },
     "autoload": {
         "psr-4": {
-            "ITEC\\PRESENCIAL\\DAW\\": "src/"
+            "ITEC\\PRESENCIAL\\DAW\\BDLIST\\": "src/Clases/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ITEC\\PRESENCIAL\\DAW\\": "src/"
+            "ITEC\\PRESENCIAL\\DAW\\BDLIST\\": "src/Clases/"
         }
     }
 }
